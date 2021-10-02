@@ -29,8 +29,8 @@ Problem Statement : Based on given features we have to predict the category of s
 
 ### Conclusion:
 
-1)All setosa flowers are correctly classified by our model 
+1) All setosa flowers are correctly classified by our model 
 
 2) 12 versicolor flowers are correctly classified and 1 versicolor is wrongly classified as viginica 
 
-3)All 11 virginica are correctly classified by our model
+3) All 11 virginica are correctly classified by our model
